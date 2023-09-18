@@ -36,3 +36,6 @@ MacOs、Windows、Linux
 ```
 https://wxpy.readthedocs.io/zh/latest/
 ```
+
+## API供应商
+Paddle OCR + 图像识别：AIGCaaS主要为本项目提供了OCR的接口能力以及图像识别的能力，费用也相对来说较低，注册地址：https://www.aigcaas.cn/home_v3/login?share=AEjMzBfmyA
