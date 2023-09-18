@@ -24,7 +24,7 @@ Python
 MacOs、Windows、Linux
 
 ## 使用说明
-⚠️ Python环境请务必保持在 3.6.x-3.7.x 版本，我使用的是3.7.0（惨痛教训：wxpy对Python的版本有要求）
+⚠️ Python环境请务必保持在 3.6.x-3.7.x 版本，我使用的是3.7.0（惨痛教训：wxpy这个库对Python的版本有要求）
 
 - Step1:解压下载当前项目，并安装相关Python依赖
 - Step2:根据Config中的信息，配置语言模型的Key、配置图像识别及OCR的Key
