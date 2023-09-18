@@ -1,7 +1,16 @@
+
+https://github.com/PromptExpert/Trickle-On-WeChat/assets/46588426/fa9974d1-4bdf-4da1-a020-8d9bfb111e5a
 # Trickle-On-WeChat
 在微信端使用类似Trickle的图片信息识别和提炼，并进行图片信息管理的功能。
 
 ## 功能演示：
+
+
+
+https://github.com/PromptExpert/Trickle-On-WeChat/assets/46588426/40c83e2e-66ab-474b-a464-878b3e63a4df
+
+
+
 
 图片识别自动提取关键信息
 ![image](https://github.com/PromptExpert/Trickle-On-WeChat/assets/46588426/d6b01120-0921-4dad-a8d9-245e2c55e7ed)
