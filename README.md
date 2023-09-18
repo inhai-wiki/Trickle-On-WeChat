@@ -1,5 +1,6 @@
 # Trickle-On-WeChat
 在微信端使用类似Trickle的图片信息识别和提炼，并进行图片信息管理的功能。
+> 思路介绍：https://mp.weixin.qq.com/s/Q9ubSQHhEgpn2Yf6ndoi5w
 
 ## 功能演示：
 
