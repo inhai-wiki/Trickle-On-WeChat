@@ -18,7 +18,22 @@ https://github.com/PromptExpert/Trickle-On-WeChat/assets/46588426/40c83e2e-66ab-
 ![image](https://github.com/PromptExpert/Trickle-On-WeChat/assets/46588426/b5a7c8a9-d89d-4a7a-9506-14b2e454b071)
 
 ## 语言支持
-Python
+Python 3.6.x ~ 3.7.x
+
+## 依赖包
+```
+certifi==2023.5.7
+charset-normalizer==3.1.0
+future==0.18.3
+idna==3.4
+itchat==1.2.32
+itchat-uos==1.5.0.dev0
+pypng==0.20220715.0
+PyQRCode==1.2.1
+requests==2.30.0
+urllib3==2.0.2
+wxpy==0.3.9.8
+```
 
 ## 环境支持
 MacOs、Windows、Linux
