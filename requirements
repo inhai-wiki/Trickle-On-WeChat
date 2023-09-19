@@ -1,0 +1,11 @@
+certifi==2023.5.7
+charset-normalizer==3.1.0
+future==0.18.3
+idna==3.4
+itchat==1.2.32
+itchat-uos==1.5.0.dev0
+pypng==0.20220715.0
+PyQRCode==1.2.1
+requests==2.30.0
+urllib3==2.0.2
+wxpy==0.3.9.8
